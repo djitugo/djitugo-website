@@ -8,7 +8,7 @@ export const metadata: Metadata = pageMetadata({
   path: "/terms",
   title: "Terms of Use — Djitugo",
   description:
-    "Plain-language terms that govern your use of djitugomarketing.com and any Djitugo engagement."
+    "Plain-language terms that govern your use of djitugo.com and any Djitugo engagement."
 });
 
 const UPDATED = "20 May 2026";
@@ -16,7 +16,7 @@ const UPDATED = "20 May 2026";
 const SECTIONS = [
   {
     title: "About these terms",
-    body: `These terms govern your access to djitugomarketing.com and any informational use of the materials on it. ${SITE.legalName} (referred to here as "Djitugo") makes the site available subject to these terms, and to the Privacy Policy linked from the footer.`
+    body: `These terms govern your access to djitugo.com (also served at djitugomarketing.com and djitugo.site) and any informational use of the materials on it. ${SITE.legalName} (referred to here as "Djitugo") makes the site available subject to these terms, and to the Privacy Policy linked from the footer.`
   },
   {
     title: "Who can use this site",

@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import { SITE } from "./data";
 
-export const SITE_URL = "https://djitugomarketing.com";
+export const SITE_URL = "https://www.djitugo.com";
 export const SITE_NAME = SITE.name;
 export const DEFAULT_TITLE =
   "Djitugo — Digital Marketing Agency in Bali, Indonesia";

@@ -8,7 +8,7 @@ export const metadata: Metadata = pageMetadata({
   path: "/privacy",
   title: "Privacy Policy — Djitugo",
   description:
-    "How Djitugo (PT Djitu Solusi Digital) collects, uses, and protects information across djitugomarketing.com and our engagements."
+    "How Djitugo (PT Djitu Solusi Digital) collects, uses, and protects information across djitugo.com and our engagements."
 });
 
 const UPDATED = "20 May 2026";
@@ -16,7 +16,7 @@ const UPDATED = "20 May 2026";
 const SECTIONS = [
   {
     title: "Who we are",
-    body: `${SITE.legalName} operates the website at djitugomarketing.com and provides digital marketing services from Denpasar, Bali. References to "Djitugo", "we", or "us" mean the same company.`
+    body: `${SITE.legalName} operates the website at djitugo.com (also served at djitugomarketing.com and djitugo.site) and provides digital marketing services from Denpasar, Bali. References to "Djitugo", "we", or "us" mean the same company.`
   },
   {
     title: "What we collect",
@@ -74,7 +74,7 @@ export default function PrivacyPage() {
         eyebrow="Legal"
         number="A"
         title="Privacy Policy."
-        description={`How we handle information across djitugomarketing.com and our engagements. Last updated ${UPDATED}.`}
+        description={`How we handle information across djitugo.com and our engagements. Last updated ${UPDATED}.`}
       />
 
       <section className="relative w-full pb-24 md:pb-32">

@@ -89,7 +89,7 @@ export default async function OpengraphImage() {
             letterSpacing: 2
           }}
         >
-          <div>djitugomarketing.com</div>
+          <div>djitugo.com</div>
           <div>hello@djitugo.com</div>
         </div>
       </div>
